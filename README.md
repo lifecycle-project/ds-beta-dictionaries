@@ -14,11 +14,12 @@ YOu need to 'clone' the repository on your own workingstation to be able to crea
 
 Now you have your own copy to work in.
 
+Within the *dictionaries*-directory of the repository you need to create a dictionary for your study. This will result in a structure like:
 ## Create dictionaries
-Within the root-directory of the repository you need to create a dictionary for your study. This will result in a structure like:
 
 - ds-beta-dictionaries
-  - yourstudy
+  - dictionaries
+    - yourstudy
 
 Then you need to create a dictionary based upon the variables you want to harmonise. To illustrate how you do this you can use the [example](https://github.com/lifecycle-project/ds-beta-dictionaries/example-dictionary.xlsx) as a reference.
 
