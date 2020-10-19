@@ -20,7 +20,9 @@ result in a structure like:
 
 - ds-beta-dictionaries
   - dictionaries
-    - yourstudy_#flavor#
+    - yourstudy
+      - dict_#flavor$
+      - dict_#different flavor$
 
 The flavors can be:
 - non_rep
