@@ -23,11 +23,11 @@ result in a structure like:
     - yourstudy_#flavor#
 
 The flavors can be:
-- nonrep
-- weekly (0-)
-- monthly (0-219)
+- non_rep
+- weekly_rep (0-)
+- monthly_rep (0-219)
 - trimester (1-3)
-- yearly (0-17)
+- yearly_rep (0-17)
 
 Then you need to create a dictionary based upon the variables you want to harmonise. To illustrate how you do this you can use the [example](https://github.com/lifecycle-project/ds-beta-dictionaries/example-dictionary.xlsx) as a reference.
 
