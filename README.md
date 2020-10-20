@@ -1,4 +1,5 @@
 # BETA dictionaries for LifeCycle, Athlete and Longitools
+The beta dictionaries are used to be able to initiate creation of dictonaries in the harmonisation process of new variables in a very early stage. As a PI you can manage and create new dictionaries which can be uploaded and tested by involved cohorts in a pilot phase of the project. Dictionaries can be changed and updated at any time and the network will be unaffected. After testing and approving the final beta dictionary the variables will be included in the main dictionaries and released when in the 3 months cycle.
 
 ## How it works
 You need to have a few prerequisites
